@@ -29,6 +29,19 @@ Here are four video songs that I highly recommend. Each song offers a unique exp
 
 > The greatest glory in living lies not in never falling but in rising time we fall. *Nelson Mandela*
 
+---
+
+## Code Fencing
+
+The Assert Node.js example below uses the assert module to provide a set of assertion functions for verifying invariants.
+
+```
+const assert = require('assert');
+
+assert(5 > 7);
+```
+link to code snippet <https://code.pieces.app/collections/node-js
+
 
 
  
