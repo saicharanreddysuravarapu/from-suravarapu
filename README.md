@@ -10,3 +10,8 @@
  1. Chicken kheema biryani
  2. Tawa bonda
  3. Nalli ghost biryani
+
+ * going to baked treasures
+ * going to spin bowling 
+ * going to movie theatre
+
