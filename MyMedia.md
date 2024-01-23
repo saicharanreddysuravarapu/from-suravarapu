@@ -21,5 +21,14 @@ Here are four video songs that I highly recommend. Each song offers a unique exp
 | "This Is America"  | Powerful social commentary paired with stunning scenes. | Childish Gambino       |
 | "Bad Romance"          | A visually stunning and iconic pop music video.           | Lady Gaga
 
+---
+
+## Favourite quotes
+
+> The only limit to our realization of tomorrow will be our doubts of today. *Franklin D. Roosevelt*
+
+> The greatest glory in living lies not in never falling but in rising time we fall. *Nelson Mandela*
+
+
 
  
