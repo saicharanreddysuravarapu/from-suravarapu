@@ -15,3 +15,4 @@
  * going to spin bowling 
  * going to movie theatre
 
+[Go to MyMedia](MyMedia.md)
